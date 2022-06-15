@@ -1,2 +1,2 @@
 # Sistema-em-PHP
-Sistema de busca em PHP e banco de dados MySQLi
+Sistema de pesquisa de livros em PHP e banco de dados MySQLi
